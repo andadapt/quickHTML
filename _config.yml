@@ -1,6 +1,6 @@
 theme: jekyll-theme-hacker
-name: Simon Wheatcroft Guides
-title: null
+
+
 plugins:
   - jekyll-relative-links
 relative_links:
