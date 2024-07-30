@@ -15,6 +15,7 @@ The links below are our quick ways into finding out how you can complete essenti
 ? - request assistive technology through ITNow- 
 - Configure my assistive tools for testing? - Follow our guides for desktop, web and mobile
 - Get a login for Hugr? - Create a new account on Hugr
+- Scope for accessibility test? - Follow our guides for scoping
 - Know how to test against the Home Office Standard for desktop and web? - Follow our milestone testing guides
 - Know how to test against the Home Office Standard for mobile? - Follow our guides to testing for mobile
 - Learn how to use tools to help with testing? - Follow our quick start guides to be up and running in minutes
