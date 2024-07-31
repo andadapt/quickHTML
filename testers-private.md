@@ -1,7 +1,6 @@
 # Testers
- [Return to homepage](https://simonwheatcroft.github.io/guides/)
-
-As the accessibility assurance team we are hear to help. We aim to assure testers have the skills, guidance and knowledge to ensure all products and services meet the Home Office Accessibility Standard. Remember we have a legal requirement to ensure all products used internally and externally meet accessibility standards. However, we should not stop there! We can go beyond the standards and provide opportunities  for everyone to have equal access to all systems.
+ 
+Remember we have a legal requirement to ensure all products used internally and externally meet accessibility standards. However, we should not stop there! We can go beyond the standards and provide opportunities  for everyone to have equal access to all systems.
 
 
 
